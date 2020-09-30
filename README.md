@@ -103,8 +103,8 @@ pywalScript -i ruta de la imagen
 Ejemplo
 pywalScript -i /home/pan/Imágenes/dark.jpg
 ```
-
 ## Combinaciones de Teclas
+##### Para agregar tus propias combinaciones de teclas debes editar el archivo ~/.config/sxhkd/sxhkdrc
 - windows + enter: kitty (terminal) en el escritorio 3
 - windows + shift + enter: kitty (terminal) en modo flotante
 - windows + d: rofi launcher 

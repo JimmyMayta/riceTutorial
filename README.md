@@ -2,6 +2,8 @@
 
 ## BSPWM
 ![BSPWM](.screenshots/bspwm.png)  
+## Pantalla Completa
+![Completa](.screenshots/completa.png)  
 ## Flotantes
 ![Flotantes](.screenshots/flotantes.png)  
 ## Rofi

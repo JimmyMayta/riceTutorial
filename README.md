@@ -54,7 +54,7 @@ No aparece tu red en polybar, se soluciona de la siguiente manera: Primero abre 
 sudo pacman -S bspwm sxhkd rofi mpd mpc ncmpcpp alsa-tools alsa-utils alsa-plugins\
 pulseaudio pulseaudio-alsa scrot viewnior xorg-xbacklight dunst lxappearance\
 nm-connection-editor papirus-icon-theme feh ffmpeg ffmpegthumbnailer\
- imagemagick xfce4-power-manager kitty pcmanfm jq
+imagemagick xfce4-power-manager kitty pcmanfm jq
 ```
 ```
 git clone https://aur.archlinux.org/polybar.git  
